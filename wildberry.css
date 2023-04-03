@@ -10,13 +10,13 @@
 
 :root {
     /* Color palette */
-    --wildberry-primary: #5C0068;
-    --wildberry-secondary: #780088;
-    --wildberry-secondary-alt:#780088;
-    --wildberry-tertiary: #52003A;
-    --wildberry-accent-color : #37003F;
-    --wildberry-input-box: #001F28;
-    --wildberry-mention:  #628E82;
+    --wildberry-primary: #3E0046;
+    --wildberry-secondary: #4A0054;
+    --wildberry-secondary-alt:#4A0054;
+    --wildberry-tertiary: #320023;
+    --wildberry-accent-color : #1F0024;
+    --wildberry-input-box: #000E13;
+    --wildberry-mention:  #407E6D;
     --wildberry-red: #ff6c5c;
     --wildberry-svg: #FFFFFF;
     --wildberry-less-hot: #cc0066;
