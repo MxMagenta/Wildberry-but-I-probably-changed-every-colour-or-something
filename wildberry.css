@@ -11,12 +11,12 @@
 :root {
     /* Color palette */
     --wildberry-primary: #550060;
-    --wildberry-secondary: #004835;
-    --wildberry-secondary-alt:#4D5700;
-    --wildberry-tertiary: #442571;
+    --wildberry-secondary: #6F0099;
+    --wildberry-secondary-alt:#380099;
+    --wildberry-tertiary: #9D008F;
     --wildberry-accent-color : #BC00FF;
-    --wildberry-input-box: #BC00FF;
-    --wildberry-mention:  #00BF8D;
+    --wildberry-input-box: #00FFBD;
+    --wildberry-mention:  #0094BD;
     --wildberry-red: #ff6c5c;
     --wildberry-svg: #F40174;
     --wildberry-less-hot: #cc0066;
